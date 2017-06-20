@@ -1,3 +1,5 @@
+//captcha code functionality for security perpose
+
 <?php
 	session_start();
 	include("./phptextClass.php");	
