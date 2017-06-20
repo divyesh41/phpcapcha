@@ -1,3 +1,5 @@
+//this is the demo page of display the functionality of captha code.
+
 <?php session_start();
 
 if(isset($_POST['Submit'])){
